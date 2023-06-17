@@ -1,0 +1,14 @@
+.card {
+    background-color: #14d33d;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+    line-height: 1.5;
+}
